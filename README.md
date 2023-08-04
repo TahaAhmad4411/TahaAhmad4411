@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TahaAhmad4411&margin-w=30" alt="TahaAhmad4411" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TahaAhmad4411&label=Profile%20views&color=0e75b6&style=flat" alt="TahaAhmad4411" /> </p>
 
@@ -51,7 +50,7 @@ Here are some ideas to get you started:
 
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TahaAhmad4411&show_icons=true&locale=en" alt="TahaAhmad4411" /></p>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TahaAhmad4411&" alt="TahaAhmad4411" /></p>
+<!-- <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TahaAhmad4411&" alt="TahaAhmad4411" /></p> -->
 
 
 
