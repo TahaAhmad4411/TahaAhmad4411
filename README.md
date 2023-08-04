@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey! 👋<br> I'm Taha Ahmad Mirza</h1>
-<h3 align="center">Diving into AI, ML | Open Source Contributor Enthisiast</h3>
+<h3 align="center">Diving into ML</h3>
 
 
 <!--
